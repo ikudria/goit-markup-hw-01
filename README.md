@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-  Homework_01
+https://ikudria.github.io/goit-markup-hw-01/
